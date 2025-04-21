@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/samsung/c2q" name="astardeviluke/device_samsung_c2q" remote="github" revision="main" />
+    <project path="kernel/configs" name="android.googlesource.com/kernel/configs" remote="googlesource" />
+    <project path="kernel/build" name="android.googlesource.com/kernel/build" remote="googlesource" />
+    <project path="kernel/tests" name="android.googlesource.com/kernel/tests" remote="googlesource" />
+</manifest>
